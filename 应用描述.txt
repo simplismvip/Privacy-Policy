@@ -1,0 +1,24 @@
+
+使用说明
+
+获得无限制的下载，没有广告，并保持隐藏的朋友。 订阅是可再生的，这意味着一旦购买，它将每月自动续订，直到您在当前期限结束前24小时取消订阅。订阅期限为1个月，每月收费¥3.99/月。 
+iTunes账户将在本期结束前24小时内收费，费用为¥3.99/月。 
+通过访问您的帐户设置来管理您的订阅和自动续订。
+
+(1) 订阅时限为1个月，每个订阅期间用户将能够使用所有功能并去广告
+(2) 您确认购买时将向iTunes帐户收取付款
+(3) 订阅将自动更新，除非在本期结束前至少24小时关闭自动续订
+(4) 帐户将在本期结束前24小时内收取续费费用，并确认续订费用
+(5) 订阅可能由用户管理，自动续订可能会在购买后转到用户的帐户设置关闭
+(6) 如果提供免费试用期的任何未使用部分，如果用户购买该订阅，将被没收";
+
+User Guide
+
+Get unlimited downloads with no ads and stay hidden from friends. Subscription is auto-renewable which means that once purchased it will be auto-renewed every month until you cancel it 24 hours prior to the end of the current period. Duration of the subscription is 1 Month with a charge of $0.49 every month. iTunes Account will be charged for renewal within 24-hours prior to the end of the current period with the cost of $0.49. Manage your Subscription and Auto-Renewal by going to your Account Settings.
+
+(1) $0.49/Month，enjoy more features
+(2) Payment will be charged to iTunes Account at confirmation of purchase
+(3) Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+(4) Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+(5) Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+(6) Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
